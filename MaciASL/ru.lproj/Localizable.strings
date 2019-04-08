@@ -1,0 +1,11 @@
+/* New from ACPI */
+"new-from-acpi" = "Новый из ACPI";
+
+/* Export Tableset */
+"export-tableset" = "Экспортировать таблицы";
+
+/* Presave */
+"presave" = "Параметры сохранения";
+
+/* \u2023 */
+"triangular-bullet" = " ‣ ";

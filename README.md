@@ -25,3 +25,6 @@ LDFLAGS="-mmacosx-version-min=10.7" \
 make iasl -j $(getconf _NPROCESSORS_ONLN)
 ```
 The binary will be present at `generate/unix/bin/iasl` path, and should replace `iasl62` in the project dir.
+
+ACPI Specification version 6.3
+https://uefi.org/sites/default/files/resources/ACPI_6_3_final_Jan30.pdf
